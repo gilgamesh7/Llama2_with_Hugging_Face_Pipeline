@@ -5,3 +5,4 @@ In this Hugging Face pipeline tutorial for beginners we'll use Llama 2 by Meta. 
 - [Youtube video](https://youtu.be/Z6sCl6abJj4?si=vpzAZ9_6RAep25GY)
 - [Llama-2 7B Model on Hugging face](https://huggingface.co/meta-llama/Llama-2-7b)
 - [Llama-2 7b chat](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat)
+- [Huggingface login / logout](https://huggingface.co/docs/huggingface_hub/en/package_reference/login)
