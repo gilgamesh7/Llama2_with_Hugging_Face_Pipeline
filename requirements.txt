@@ -17,11 +17,13 @@ jedi==0.19.1
 Jinja2==3.1.3
 jupyter_client==8.6.1
 jupyter_core==5.7.2
+llvmlite==0.42.0
 MarkupSafe==2.1.5
 matplotlib-inline==0.1.7
 mpmath==1.3.0
 nest-asyncio==1.6.0
 networkx==3.3
+numba==0.59.1
 numpy==1.26.4
 packaging==24.0
 parso==0.8.4
