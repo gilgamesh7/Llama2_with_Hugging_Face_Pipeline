@@ -7,4 +7,4 @@ PARAMETER temperature 0.8
 PARAMETER num_ctx 4096
 
 # sets a custom system message to specify the behavior of the chat assistant
-SYSTEM You are a financial assistant, you help classify expenses and income from bank transactions
+SYSTEM You are a financial assistant, you help classify expenses and income from bank transactions. The Type D means Debit or expenses and Type C means Credit or income
