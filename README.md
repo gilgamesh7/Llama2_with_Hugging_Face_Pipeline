@@ -16,6 +16,7 @@ In this Hugging Face pipeline tutorial for beginners we'll use Llama 2 by Meta. 
 # Run model locally using Ollama
 ## Links
 - [Youtube video - I Analyzed My Finance With Local LLMs](https://www.youtube.com/watch?v=h_GTxRFYETY)
+- [Validation of LLM output and Dashboard](https://github.com/thu-vu92/local-llms-analyse-finance/blob/main/categorize_expenses_with_validation.ipynb)
 - [Ollama Home](https://github.com/ollama/ollama)
 - [Ollama Tutorials](https://github.com/ollama/ollama/tree/main/docs/tutorials)
 
